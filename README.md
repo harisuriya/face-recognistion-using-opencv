@@ -30,8 +30,5 @@ This project consist of 3 parts, which are:
 ## Tips
 - If you don't understand what the code do, I already comments it line by line. 
 - You also can Google the syntax, and read the explanation from OpenCV Documentation.
-- Feel free to ask me through my email: nazmiasri95@gmail.com
+- Feel free to ask me through my email: a.harisuriya@gmail.com
 
-## Credit to:
-#### Anirban from TheCodacus. Link: http://thecodacus.com/
-#### All rights reserved to the respective owner
